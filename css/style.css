@@ -500,7 +500,27 @@ path.two2 {
     background-color: #191138;
     border-radius: 50px;
 }
-
+.hoverr {
+    color: white; 
+    font-size: 50px; 
+    padding: 10px; 
+    margin: 5px; 
+    position: relative; 
+    top: 15px; 
+    background-color: #191138; 
+    border-radius: 10px;
+    transition: 0.2s all ease;
+}
+.hoverr:hover{
+    color: white; 
+    font-size: 50px; 
+    padding: 10px; 
+    margin: 5px; 
+    position: relative; 
+    top: 15px; 
+    background-color: #191138; 
+    border-radius: 50px;
+}
 
 .portfolio{
     padding: 100px 0;
